@@ -4,5 +4,5 @@ This repository is for the Digital Mapping of Addis Ababa's Public Transport pro
 
 # Release History
 
-#### V1.0.0
+#### [v1.0.0](https://github.com/rabira-hierpa/addis-gtfs/releases/tag/v1.0.0)
  The first instace of the GTFS files based on the procssed data for the trips,terminals and stops for each major transit agencies of the city(Anbessa, Sheger and Paratransit taxis or Blue taxis)
